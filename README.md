@@ -3,7 +3,7 @@ Graph Theory Repeat
 # G00368158
 
 # Description
-In this repsoitory i will be using python to show on juypiter notebooks a number of questions in which i have answered. There will be two notebooks showing the answers for both sets of questions. 
+In this repsoitory i will be using python to show on jupyter notebooks a number of questions in which i have answered. There will be two notebooks showing the answers for both sets of questions. 
 
 **Executing program**
 
